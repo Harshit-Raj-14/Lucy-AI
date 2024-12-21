@@ -7,6 +7,9 @@
 ## Video Demo
 Link - https://youtu.be/vOwGIXkPb4w?si=6FTsgKtMkspfLqmg
 
+## Inspiration
+Recently, I had some questions about a product’s services and was directed to the company’s chatbot. I had to type out my entire query, only to be met with a slow response that lacked clarity or relevance. The interaction felt mechanical and unengaging, offering little to no value. This frustrating experience highlighted the need for a more interactive, human-like, and impactful AI assistant that truly understands and assists users effectively.
+
 ## Problem Statement
 Today  countless websites rely on AI chatbots to handle tasks like sharing basic information, troubleshooting, and customer care.
 Not only do these simple chatbots are dull, boring  and lack the warmth of personal human interaction. Their responses are frequently slow, repetitive, and limited in scope, leaving users frustrated and disengaged. Instead of enhancing the user experience, they can end up feeling like a hindrance, failing to provide meaningful or helpful solutions.
@@ -21,13 +24,20 @@ Its customizable personality, secure user management, and centralized knowledge 
 Through real-time video, Lucy enables users to interact naturally —showing, talking, and guiding. Providing the feeling of in-person assistance from anywhere and anytime.
 
 
-## Features
-* Real time video chat wiht 3D Lucy AI.
-* Lucy exhibits real expressions and voice modulation to show human like emotions and show an understnading of our problem.
-* Lucy can answer any question and can be trained on any knowledge base by providing it information in form of pdf or handbook or text.
+## Features  
+
+- **Conversational Real-Time Video Assistance**  
+  Experience dynamic, real-time video chats with 3D Lucy AI, bringing conversations to life like never before.  
+
+- **Human-Like Expressions and Voice Modulation**  
+  Lucy showcases genuine expressions and voice tones, mimicking human emotions and demonstrating a deep understanding of your concerns.  
+
+- **Customizable Knowledge Base**  
+  Empower Lucy to answer any question by training her with your desired knowledge base. Simply provide information in the form of PDFs, handbooks, or text files, and watch her adapt effortlessly!  
+
 
 ## Tech Stack
-React.js, Node.js, OPEN AI, ELeven Labs, Blender, Fibre Three.js
+**React.js, Node.js, OPEN AI, ELeven Labs, Blender, Fibre Three.js**
 
 ## Run the project
 1 Clone/Download this repo.
@@ -70,11 +80,8 @@ You can play around with model on - lucy-ai-frontend-main
 
 <hr>
 
+![vlcsnap-2024-12-22-00h10m47s134](https://github.com/user-attachments/assets/d5d6b501-1414-42f0-a63f-31c4c97a6daf)
 
+<hr>
 
 # THANK YOU
-yarn install
-yarn dev
-
-
-https://gltf.pmnd.rs/
